@@ -15,11 +15,11 @@ body, html, .container {
   left: 50%;
   z-index: 1000;
 
-  margin-left: -240px;
+  margin-left: -260px;
   margin-top: -80px;
 
   box-sizing: border-box;
-  width: 480px;
+  width: 520px;
   height: 160px;
 
   color: #222;
